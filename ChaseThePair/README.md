@@ -11,7 +11,7 @@ Dado un número (número A) obtén el par de números más cercano (número B y 
 ## Ejemplo
 Dados dos sets de valores numericos (SetA y SetB)
 
-    SeA: [1,23,45,66,84,113,145,178,205,210,221,250,264,300]
+    SetA: [1,23,45,66,84,113,145,178,205,210,221,250,264,300]
     SetB: [5,31,40,52,73,103,126,162,195,214,225,241,256,267]
 
 Dado un valor numérico aleatorio (toChase) contenido dentro de los dos sets (No tiene porqué existir dentro de estos)
