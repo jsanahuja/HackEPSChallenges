@@ -29,7 +29,7 @@ Dados dos sets de valores numericos (SetA y SetB)
 Dado un valor numérico aleatorio (toChase) contenido dentro de los dos sets (No tiene porqué existir dentro de estos)
 
     toChase: 231
-    WHERE toChase &gt;= min(SetA, SetB) && toChase <= max(SetA, SetB)
+    WHERE toChase >= min(SetA, SetB) && toChase <= max(SetA, SetB)
 
 Encontrar aquella pareja de valores numéricos más cercanos a _toChase_
 
