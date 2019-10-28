@@ -5,6 +5,6 @@
 
 ## Información
 - Group name:
-- Difficult:
+- Cost:
 - Time expend:
 - Sets size:
