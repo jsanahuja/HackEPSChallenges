@@ -48,6 +48,14 @@ Se recomienda ejecutar los progrmas en entornos linux. En caso de suponer un pro
     # Sets Generator
     ./setsGenerator
 
+Se ha añadido una amplia variedad de ejecutables para satisfacer las necesidades de tantos equipos como sea posible. Tened en cuenta que todos ellos se encuentran en el apartado [Release](https://github.com/LleidaHack/HackEPSChallenges/releases) de este mísmo repositorio.
+
+Recordad proveer el archivo de permisos de ejecución si usáis un sistema operativo como Linux, mediante:
+
+``` $bash
+chmod +x archivo
+```
+
 ## Plantilla README
 Este reto incluye una plantilla para poder usarla como README en vuestro proyecto. Esta incluye información básica para poderos identificar como participantes de la HackEPS.
 
