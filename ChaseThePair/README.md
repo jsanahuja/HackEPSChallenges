@@ -19,9 +19,11 @@ Dado un valor numérico aleatorio (toChase) contenido dentro de los dos sets (No
     toChase: 231
     WHERE toChase >= min(SetA, SetB) && toChase <= max(SetA, SetB)
 
-Encontrar aquella pareja de valores numéricos más cercanos a _toChase_
+Encontrar aquella pareja de valores numéricos más cercanos a _toChase_ (dónde cada valor de esta pareja pertenece a un Set distinto)
 
     Result: [221, 225]
+    
+En este caso podemos apreciar como ```221``` pertenece al SetA y ```225``` pertenece al SetB.
 
 ### Notas
 - Los sets A y B pueden considerarse de la misma longitud.
