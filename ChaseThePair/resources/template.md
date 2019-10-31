@@ -8,12 +8,15 @@ Lo que hago, sabiendo que los dos sets tienen el mismo tamaño, es realizar la b
 - Group name: jsanahuja
 - Cost: O(n)
 
-|Sets Size|Time expend (s)|
-|:-:|--:|
-|1,000|0.00032|
-|10,000|0.0027|
-|100,000|0.0278|
-|1,000,000|0.2817|
+|Sets Size|Time expend (s)| Time expend/Sets size (μs/unit)
+|:-:|--:|--:|
+|1,000|0.000324|0.324000
+|10,000|0.002737|0.273700
+|100,000|0.027873|0.278730
+|1,000,000|0.281748|0.281748
+
+
+Como se puede ver en la terca columna, el coste por unidad es lineal O(N). Tarda una media de `0.2895445 μs` * Sets Size
 
 ## Ejecución
 Hecho en PHP. Probado con PHP 7.3 cli.
