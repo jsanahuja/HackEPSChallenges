@@ -34,7 +34,7 @@ En este caso podemos apreciar como ```221``` pertenece al SetA y ```225``` perte
         ChaseThePair/resources/setsGenerator
 
 - El tiempo de lectura del archivo se puede obviar del total transcurrido.
-- Se pueden usar algoritmos de _sort_ para ordenar los datos y sacarles partido para llegar a una solución más optima [pista].
+- Se pueden usar algoritmos de _sort_ para ordenar los datos y sacarles partido.
 - Teniendo en cuenta los anteriores puntos notificados, todas las técnicas de programación (legales) están permitidas si con ellas conseguís un mejor tiempo.
 
 ## Recursos
