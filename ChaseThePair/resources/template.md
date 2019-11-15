@@ -5,7 +5,7 @@ Teniendo en cuenta que cualquier algoritmo de ordenación tiene como mínimo un 
 Lo que hago, sabiendo que los dos sets tienen el mismo tamaño, es realizar la búsqueda en los dos sets a la vez.
 
 ## Información
-- Group name: jsanahuja
+- Group name: undefined
 - Cost: O(n)
 
 |Sets Size|Time expend (s)| Time expend/Sets size (μs/unit)
